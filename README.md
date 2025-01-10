@@ -19,3 +19,17 @@ Pour flutter il suffit d'aller dans le fichier main.dart et le lancer.
 ## Quelques images de l'application
 ### Ecran de login
 ![Login Scren](https://github.com/cerensec/flutter-exam-api/blob/main/img/ecran-login.png?raw=true)
+
+### Ecran informations utilisateur
+![User screen](https://github.com/cerensec/flutter-exam-api/blob/main/img/ecran-user.png?raw=true)
+
+### Erreur Email invalide
+![Error Email](https://github.com/cerensec/flutter-exam-api/blob/main/img/email-invalide.png?raw=true)
+
+### Erreur de login
+![Error Login](https://github.com/cerensec/flutter-exam-api/blob/main/img/erreur-login.png?raw=true)
+
+### Erreur de mot de passe
+![Erreur pswd](https://github.com/cerensec/flutter-exam-api/blob/main/img/mdp-court.png?raw=true)
+
+
